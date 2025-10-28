@@ -1,5 +1,6 @@
 {
-  "Newsletter": {
+  "Newsletter": [
+  { "jid": "120363419522186448@newsletter", "name": "Arka" },
   { "jid": "120363404953742204@newsletter", "name": "VerseOffcial" }
-  }
+  ]
 }
