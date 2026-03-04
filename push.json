@@ -1,6 +1,8 @@
 {
-  "Newsletter": [
+  "newsletter": [
   { "jid": "120363419522186448@newsletter", "name": "Arka" },
+  { "jid": "120363424729158161@newsletter", "name": "Vinzx" },
+  { "jid": "120363408039361324@newsletter", "name": "nanasz" },
   { "jid": "120363404953742204@newsletter", "name": "VerseOffcial" }
   ]
 }
